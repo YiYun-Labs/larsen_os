@@ -8,5 +8,11 @@
   "diagnostic_dumps": "6.4.12",
   "rpi_led_control": "6.4.4",
   "farmduino_k14": "6.4.4",
-  "use_update_channel": "6.4.12"
+  "use_update_channel": "6.4.12",
+  "variables": "6.4.12",
+  "jest_feature": "6.4.12",
+  "mark_as_step": "6.4.12",
+  "firmware_restart": "6.4.12",
+  "api_farmware_installations": "6.4.12",
+  "api_farmware_env": "6.4.12"
 }
